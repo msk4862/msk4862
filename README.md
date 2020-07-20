@@ -19,7 +19,7 @@
 
 
 
-Hi, I'm Shoaib Asgar, a Full Stack Developer 🚀 from India, currently, I am a computer science postgrad student who loves programming and interested in solving real world problems using the technologies present out there. Beside's programming, I enjoy designing, photography and eating food 🙂.
+Hi, I'm Shoaib Asgar, a Full Stack Developer 🚀 from Delhi, India 🇮🇳, currently, I am a computer science postgrad student who loves programming and interested in solving real world problems using the technologies present out there. Beside's programming, I enjoy designing, photography and eating food 🙂.
 
  <img align="right" width="390" height="380"  alt="GIF" src="https://media.giphy.com/media/Tg0n4wTsPfypGVvaUQ/giphy.gif" />
   
@@ -46,8 +46,6 @@ Hi, I'm Shoaib Asgar, a Full Stack Developer 🚀 from India, currently, I am a 
 <code><img height="30" src="https://user-images.githubusercontent.com/24875366/87939919-68d6fd00-cab6-11ea-942b-a8d0f67b0b55.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
