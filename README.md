@@ -14,7 +14,9 @@
 <a href="https://stackoverflow.com/users/6629389/shoaib-khan">
   <img align="left" alt="Shoaib's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
-
+<a href="https://www.hackerrank.com/msk4862">
+  <img align="left" alt="Shoaib's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
 ![HitCount](https://hit-badger.glitch.me/badge?page_id=msk4862.id)
 
 
