@@ -19,7 +19,7 @@
 </a>
 ![HitCount](https://hit-badger.glitch.me/badge?page_id=msk4862.id)
 
-
+<br/>
 
 Hi, I'm Shoaib Asgar, a Full Stack Developer 🚀 from Delhi, India 🇮🇳, currently, I am a computer science postgrad student who loves programming and interested in solving real world problems using the technologies present out there. Beside's programming, I enjoy designing, photography and eating food 🙂.
 
