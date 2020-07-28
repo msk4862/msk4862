@@ -29,7 +29,6 @@ Hi, I'm Shoaib Asgar, a Full Stack Developer 🚀 from Delhi, India 🇮🇳, cu
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Anomly](https://github.com/msk4862/Anomly);
-- 🌱 I’m currently learning GraphQL and Competative Programming;
 - 💬 Ask me about anything, I will be happy to help;
 - ⚡ Fun Fact: Keep breathing 😆;
 - 📫 How to reach me: shoaib.mca19.du@gmail.com;
