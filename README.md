@@ -3,19 +3,22 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/msk4862/">
-  <img align="left" alt="Shoaib's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Shoaib | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/msk4862">
   <img align="left" alt="Shoaib | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/msk4862/">
-  <img align="left" alt="Shoaib's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Shoaib | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://stackoverflow.com/users/6629389/shoaib-khan">
-  <img align="left" alt="Shoaib's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  <img align="left" alt="Shoaib | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+<a href="https://www.codechef.com/users/msk4862">
+  <img align="left" alt="Shoaib | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <a href="https://www.hackerrank.com/msk4862">
-  <img align="left" alt="Shoaib's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="left" alt="Shoaib | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
 ![HitCount](https://hit-badger.glitch.me/badge?page_id=msk4862.id)
