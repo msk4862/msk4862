@@ -21,7 +21,7 @@
   <img align="left" alt="Shoaib | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
-![HitCount](https://hit-badger.glitch.me/badge?page_id=msk4862.id)
+![Visitors Count](https://visitor-badge.laobi.icu/badge?page_id=msk4862.msk4862)
 
 <br/>
 
