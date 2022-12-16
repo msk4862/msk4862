@@ -8,7 +8,7 @@
 <a href="https://twitter.com/msk4862">
   <img align="left" alt="Shoaib's Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
-<a href="https://www.instagram.com/msk4862/">
+<a href="https://www.instagram.com/shoaib_afk/">
   <img align="left" alt="Shoaib's Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 <a href="https://stackoverflow.com/users/6629389/shoaib-khan">
