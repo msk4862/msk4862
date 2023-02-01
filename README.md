@@ -36,6 +36,7 @@ Hi, I'm Shoaib Asgar, a Full Stack Developer 🚀 from Delhi, India 🇮🇳, cu
 <code><img height="30" src="https://cdn.simpleicons.org/cplusplus"></code>
 <code><img height="30" src="https://cdn.simpleicons.org/python"></code>
 <code><img height="30" src="https://cdn.simpleicons.org/react"></code>
+<code><img height="30" src="https://cdn.simpleicons.org/typescript"></code>
 <code><img height="30" src="https://cdn.simpleicons.org/nextdotjs/white"></code>
 <code><img height="30" src="https://cdn.simpleicons.org/nodedotjs"></code>
 <code><img height="30" src="https://cdn.simpleicons.org/django"></code>
