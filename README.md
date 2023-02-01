@@ -31,19 +31,17 @@ Hi, I'm Shoaib Asgar, a Full Stack Developer 🚀 from Delhi, India 🇮🇳, cu
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/24875366/87938530-5b207800-cab4-11ea-8860-f0552e0ff0f8.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/24875366/87938934-e69a0900-cab4-11ea-9d67-5dcebb96abc5.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/24875366/87939461-bd2dad00-cab5-11ea-8bae-0862d1a0327e.png"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/unity.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+<code><img height="30" src="https://cdn.simpleicons.org/javascript"></code>
+<code><img height="30" src="https://cdn.simpleicons.org/cplusplus"></code>
+<code><img height="30" src="https://cdn.simpleicons.org/python"></code>
+<code><img height="30" src="https://cdn.simpleicons.org/react"></code>
+<code><img height="30" src="https://cdn.simpleicons.org/django"></code>
+<code><img height="30" src="https://cdn.simpleicons.org/nodedotjs"></code>
+<code><img height="30" src="https://cdn.simpleicons.org/mysql"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/24875366/87939915-683e6680-cab6-11ea-91e3-289c3a95f591.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/24875366/87939919-68d6fd00-cab6-11ea-942b-a8d0f67b0b55.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://cdn.simpleicons.org/unity/white"></code>
 
 <br/>
 <br/>
