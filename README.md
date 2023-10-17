@@ -1,4 +1,4 @@
-### <h2>Hi there <img height="50" alt="GIF" src="https://github.com/msk4862/msk4862/blob/master/assets/hello.gif" />, I'm [Shoaib!](https://msk4862.github.io) </h2>
+### <h1>Hi there, I'm [Shoaib!](https://msk4862.github.io) </h1>
 
 <br/>
 
