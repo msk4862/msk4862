@@ -27,7 +27,7 @@ Hi, I'm Shoaib Asgar, a Full Stack Developer 🚀 from Delhi, India 🇮🇳. I'
 
 - 💬 Ask me about anything, I will be happy to help;
 - ⚡ Fun Fact: Keep breathing 😆;
-- 📫 How to reach me: shoaib.mca19.du@gmail.com;
+- 📫 How to reach me: mohdshoaib.asgar@gmail.com;
 
 **Languages and Tools:**  
 
